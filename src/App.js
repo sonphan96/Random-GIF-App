@@ -7,7 +7,7 @@ const App = () => {
     return (
         <div>
             <h1>Random GIF Application</h1>
-            <div>
+            <div className="main-container">
                 <Random />
                 <Tag />
             </div>
